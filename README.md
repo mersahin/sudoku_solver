@@ -2,7 +2,7 @@
 
 thanks ChatGPT (:
 
-
+```
 Original Sudoku:
 2 0 0 0 0 6 0 0 0 
 4 0 0 7 8 0 0 0 3 
@@ -353,3 +353,4 @@ Solved Sudoku:
 5 3 1 6 4 2 9 7 8 
 6 4 2 9 7 8 5 3 1 
 9 7 8 5 3 1 6 4 2 
+```
