@@ -4,7 +4,7 @@ thanks ChatGPT (:
 
 OUTPUT:
 ``` 
-Original Sudoku:
+[Original Sudoku:
 2 0 0 0 0 6 0 0 0 
 4 0 0 7 8 0 0 0 3 
 7 8 0 1 2 3 0 0 0 
@@ -14,7 +14,7 @@ Original Sudoku:
 5 3 0 6 4 2 9 0 8 
 6 4 2 9 7 0 5 3 0 
 9 7 8 0 0 1 6 4 2 
-STEP zu Lösung:
+STEP:
 2 1 0 0 0 6 0 0 0 
 4 0 0 7 8 0 0 0 3 
 7 8 0 1 2 3 0 0 0 
@@ -24,7 +24,7 @@ STEP zu Lösung:
 5 3 0 6 4 2 9 0 8 
 6 4 2 9 7 0 5 3 0 
 9 7 8 0 0 1 6 4 2 
-STEP zu Lösung:
+STEP:
 2 1 3 0 0 6 0 0 0 
 4 0 0 7 8 0 0 0 3 
 7 8 0 1 2 3 0 0 0 
@@ -353,5 +353,5 @@ Solved Sudoku:
 8 9 7 2 1 4 3 6 5 
 5 3 1 6 4 2 9 7 8 
 6 4 2 9 7 8 5 3 1 
-9 7 8 5 3 1 6 4 2 
+9 7 8 5 3 1 6 4 2 ](https://github.com/mersahin/sudoku_solver)
 ```
