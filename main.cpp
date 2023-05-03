@@ -89,7 +89,7 @@ bool solveSudoku(vector<vector<int>> &sudoku) {
     for (int num = 1; num <= 9; num++) {
         if (isValid(sudoku, row, col, num)) {
             sudoku[row][col] = num;
-            cout << "STEP zu Lösung:" << endl;
+            cout << "STEP:" << endl;
             printSudoku(sudoku);
             if (solveSudoku(sudoku)) {
                 return true;
