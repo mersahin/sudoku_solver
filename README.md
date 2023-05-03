@@ -1,6 +1,6 @@
 # sudoku_solver
 
-thanks #ChatGPT (:
+thanks @chatgpt (:
 
 OUTPUT:
 ``` 
